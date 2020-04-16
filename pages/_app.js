@@ -5,7 +5,7 @@ export default ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>YouTube - collect anonymous feedback</title>
+        <title>Nextjs auth demo</title>
       </Head>
       <GlobalStyles>
         <Component {...pageProps} />
